@@ -9,16 +9,12 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `rion.log`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `리온`,
+      summary: `모든걸 설명할 수 있는 사람이 되고싶은 프론트엔드 개발자`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `리온의 개발 블로그`,
   },
   plugins: [
     "gatsby-plugin-pnpm",
